@@ -2,15 +2,10 @@
 
 **Reflections are due **before** the first class of each week. We cover them in class**
 
-Because this is not your typical CS course assignment, let me begin by explaining the rationale.
-
-Students may learn much in courses, but little beyond the scope of the course.
-This is a failure.
-
-To combat this failure, the goal of Reflections is to allow you to engage with the outer visualization community, guided by your own interests.
+The goal of Reflections is to allow you to engage with the outer visualization community, guided by your own interests.
 
 Every course you take is a sampling of a diverse community of research, practitioners, and professionals.
-Engaging with this community, even as an observer, will significantly enhance your learning in this course by allowing you to forge connections to the things we learn with the outside world.
+Engaging with the visualization community, even as an observer, will significantly enhance your learning in this course by allowing you to forge connections to the things we learn with the outside world.
 
 Here's how it works:
 
@@ -28,11 +23,11 @@ If you already feel "plugged in" to the data-driven world, by all means use thos
 I imagine many of you will want to "plug in" more to the visualization ecosystem, however.
 Here are several ways you might do this: 
 
-- Following folks on Twitter (for some reason there are tons of datavis folks on Twitter) 
+- Following folks on Social Media (for some reason there are tons of datavis folks on BlueSky and Mastodon, X seems to be quieter these days) 
 - Reading visualization news blogs like FiveThirtyEight and The Upshot
-- Diving into a domain of interest (biology, security, etc) and it's relation to visualization (see BioVis, VizSec for example)
+- Diving into a domain of interest (biology, security, etc) and it's relation to visualization (see VisXAI, BioVis, VizSec for example)
 - Wikipedia
-- Reddit (/r/dataisbeautiful)
+- Reddit (/r/dataisbeautiful) <- DONT JUST RELY ON THIS ONE! Sampling Bias...
 - Stack Overflow (check the d3 and ggplot2 tags)
 - Academic / practitioner visualization blogs: eagereyes.org (he links to many others)
 
