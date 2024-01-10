@@ -1,6 +1,6 @@
 # Reflections
 
-**Reflections will be due before the first class of the week.**
+**Reflections are due **before** the first class of each week. We cover them in class**
 
 Because this is not your typical CS course assignment, let me begin by explaining the rationale.
 
